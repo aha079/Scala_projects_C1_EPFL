@@ -78,7 +78,7 @@ you should have sbt.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/naha7789/robotic_proj.git
+   git clone https://github.com/naha7789/Scala_projects_C1_EPFL.git
    ```
    
 <p align="right">(<a href="#top">back to top</a>)</p>
